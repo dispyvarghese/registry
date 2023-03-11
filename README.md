@@ -1,10 +1,7 @@
 # registry
 
 to create registry, we have add below dependency
-<dependency>
-			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
-		</dependency>
+- spring-cloud-starter-netflix-eureka-server
     
     we have to give below properties in yml
     
